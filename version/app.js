@@ -9,7 +9,7 @@ app.get('/', function (req, res) {
 
     //send the response to the client
     res.send(response);
-
+//ok
 });
 
 app.listen(8080, function () {
